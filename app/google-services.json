@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "866583410619",
+    "firebase_url": "https://academia-firebase-33194-default-rtdb.firebaseio.com",
+    "project_id": "academia-firebase-33194",
+    "storage_bucket": "academia-firebase-33194.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866583410619:android:eb77e9609d064fd3a5f69e",
+        "android_client_info": {
+          "package_name": "com.example.academia_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866583410619-ngaip7nfa6kjnumt2m4j6klbbf7i9er7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.academia_firebase",
+            "certificate_hash": "5130a02937bd5a7b1a278feb7289c7bb46871b08"
+          }
+        },
+        {
+          "client_id": "866583410619-surpdjno2jbl728849jg0clinkvo7o4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmdVR-D--0AAo2w6q1hWjF97Ks5KM7M2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866583410619-surpdjno2jbl728849jg0clinkvo7o4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
